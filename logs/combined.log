@@ -1,0 +1,1400 @@
+[2025-03-19T09:17:01.720Z] [info] [[index.js]] [server listening on port 3000]
+[2025-03-19T09:17:42.307Z] [info] [[index.js]] [server listening on port 3000]
+[2025-03-19T09:17:50.985Z] [info] [[index.js]] [server listening on port 3000]
+[2025-03-19T09:17:52.678Z] [info] [[index.js]] [server listening on port 3000]
+[2025-03-19T09:18:02.961Z] [info] [[index.js]] [server listening on port 3000]
+[2025-03-19T09:18:14.563Z] [info] [[index.js]] [server listening on port 3000]
+[2025-03-19T09:21:14.374Z] [info] [[index.js]] [server listening on port 3000]
+[2025-03-19T09:21:16.078Z] [info] [[index.js]] [server listening on port 3000]
+[2025-03-19T09:21:43.889Z] [info] [[index.js]] [server listening on port 3000]
+[2025-03-19T09:21:49.441Z] [info] [[index.js]] [server listening on port 3000]
+[2025-03-19T09:21:51.000Z] [info] [[index.js]] [server listening on port 3000]
+[2025-03-19T09:22:02.956Z] [info] [[index.js]] [server listening on port 3000]
+[2025-03-19T09:22:34.551Z] [info] [[index.js]] [server listening on port 3000]
+[2025-03-19T09:22:39.154Z] [info] [[index.js]] [server listening on port 3000]
+[2025-03-19T09:23:49.996Z] [info] [[index.js]] [server listening on port 3000]
+[2025-03-19T09:24:15.564Z] [info] [[index.js]]: [server listening on port 3000]
+[2025-03-19T09:24:17.932Z] [info] [[index.js]]: [server listening on port 3000][server listening on port 3000]
+[2025-03-19T09:24:23.531Z] [info] [[index.js]]: [server listening on port 3000][]
+[2025-03-19T09:24:56.384Z] [info] [[index.js]]: [server listening on port 3000][]
+[2025-03-19T09:25:21.804Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T09:25:47.622Z] [info] [movie.controller.js]: [Getting all movies][
+[object Object]]
+[2025-03-19T09:26:03.913Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T09:26:05.983Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T09:26:11.150Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T09:26:16.585Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T09:26:26.834Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T09:27:00.943Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T09:27:15.037Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T09:52:47.656Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:16:00.080Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:16:00.083Z] [info] : [[0mGET /v1/movies/ [32m200[0m 10.653 ms - 235[0m
+][]
+[2025-03-19T10:29:39.684Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:29:45.455Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:29:49.754Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:29:55.883Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:29:55.885Z] [info] : [[0mGET /v1/movies/ [32m200[0m 10.288 ms - 235[0m
+][]
+[2025-03-19T10:29:56.518Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:29:56.518Z] [info] : [[0mGET /v1/movies/ [32m200[0m 2.315 ms - 235[0m
+][]
+[2025-03-19T10:29:57.049Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:29:57.051Z] [info] : [[0mGET /v1/movies/ [32m200[0m 1.477 ms - 235[0m
+][]
+[2025-03-19T10:29:57.489Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:29:57.491Z] [info] : [[0mGET /v1/movies/ [32m200[0m 2.394 ms - 235[0m
+][]
+[2025-03-19T10:29:57.938Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:29:57.939Z] [info] : [[0mGET /v1/movies/ [32m200[0m 1.510 ms - 235[0m
+][]
+[2025-03-19T10:30:18.371Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:30:22.006Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:30:22.008Z] [info] : [[0mGET /v1/movies/ [32m200[0m 9.640 ms - 235[0m
+][]
+[2025-03-19T10:30:22.609Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:30:22.610Z] [info] : [[0mGET /v1/movies/ [32m200[0m 2.675 ms - 235[0m
+][]
+[2025-03-19T10:30:23.086Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:30:23.089Z] [info] : [[0mGET /v1/movies/ [32m200[0m 3.153 ms - 235[0m
+][]
+[2025-03-19T10:30:23.522Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:30:23.523Z] [info] : [[0mGET /v1/movies/ [32m200[0m 1.690 ms - 235[0m
+][]
+[2025-03-19T10:30:23.994Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:30:23.995Z] [info] : [[0mGET /v1/movies/ [32m200[0m 0.488 ms - 235[0m
+][]
+[2025-03-19T10:30:45.470Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:30:47.925Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:30:52.451Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:30:59.761Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:31:05.117Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:31:15.204Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:31:15.208Z] [info] : [[0mGET /v1/movies/ [32m200[0m 10.419 ms - 235[0m
+][]
+[2025-03-19T10:31:15.856Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:31:15.857Z] [info] : [[0mGET /v1/movies/ [32m200[0m 3.295 ms - 235[0m
+][]
+[2025-03-19T10:31:17.253Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:31:17.255Z] [info] : [[0mGET /v1/movies/ [32m200[0m 1.981 ms - 235[0m
+][]
+[2025-03-19T10:31:17.732Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:31:17.736Z] [info] : [[0mGET /v1/movies/ [32m200[0m 4.332 ms - 235[0m
+][]
+[2025-03-19T10:31:18.076Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:31:18.078Z] [info] : [[0mGET /v1/movies/ [32m200[0m 2.073 ms - 235[0m
+][]
+[2025-03-19T10:31:30.442Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:31:33.055Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:31:33.057Z] [info] : [[0mGET /v1/movies/ [32m200[0m 10.522 ms - 235[0m
+][]
+[2025-03-19T10:31:33.402Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:31:33.404Z] [info] : [[0mGET /v1/movies/ [32m200[0m 2.840 ms - 235[0m
+][]
+[2025-03-19T10:31:33.790Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:31:33.793Z] [info] : [[0mGET /v1/movies/ [32m200[0m 2.134 ms - 235[0m
+][]
+[2025-03-19T10:31:34.132Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:31:34.134Z] [info] : [[0mGET /v1/movies/ [32m200[0m 1.243 ms - 235[0m
+][]
+[2025-03-19T10:31:34.507Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:31:34.509Z] [info] : [[0mGET /v1/movies/ [32m200[0m 1.469 ms - 235[0m
+][]
+[2025-03-19T10:31:44.950Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:31:46.376Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:31:48.940Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:31:53.762Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:31:55.284Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:31:58.009Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:31:59.205Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:32:07.174Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:32:11.346Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:32:16.227Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:32:17.684Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:32:20.028Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:32:23.486Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:32:29.782Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:32:48.476Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:32:51.669Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:33:00.720Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:33:00.722Z] [info] : [[0mGET /v1/movies/ [32m200[0m 9.441 ms - 235[0m
+][]
+[2025-03-19T10:33:01.088Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:33:01.090Z] [info] : [[0mGET /v1/movies/ [32m200[0m 3.018 ms - 235[0m
+][]
+[2025-03-19T10:33:01.420Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:33:01.422Z] [info] : [[0mGET /v1/movies/ [32m200[0m 1.719 ms - 235[0m
+][]
+[2025-03-19T10:33:01.785Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:33:01.785Z] [info] : [[0mGET /v1/movies/ [32m200[0m 0.528 ms - 235[0m
+][]
+[2025-03-19T10:33:02.162Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:33:02.164Z] [info] : [[0mGET /v1/movies/ [32m200[0m 1.926 ms - 235[0m
+][]
+[2025-03-19T10:34:17.954Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:34:20.201Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:34:20.205Z] [info] : [[0mGET /v1/movies/ [32m200[0m 6.494 ms - 235[0m
+][]
+[2025-03-19T10:34:20.756Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:34:20.758Z] [info] : [[0mGET /v1/movies/ [32m200[0m 2.279 ms - 235[0m
+][]
+[2025-03-19T10:34:21.214Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:34:21.216Z] [info] : [[0mGET /v1/movies/ [32m200[0m 2.252 ms - 235[0m
+][]
+[2025-03-19T10:34:21.627Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:34:21.628Z] [info] : [[0mGET /v1/movies/ [32m200[0m 2.263 ms - 235[0m
+][]
+[2025-03-19T10:34:21.992Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:34:21.995Z] [info] : [[0mGET /v1/movies/ [32m200[0m 1.195 ms - 235[0m
+][]
+[2025-03-19T10:36:21.657Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:36:21.657Z] [info] : [[0mGET /v1/movies/ [32m200[0m 1.324 ms - 235[0m
+][]
+[2025-03-19T10:36:22.327Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:36:22.332Z] [info] : [[0mGET /v1/movies/ [32m200[0m 5.287 ms - 235[0m
+][]
+[2025-03-19T10:36:22.656Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:36:22.657Z] [info] : [[0mGET /v1/movies/ [32m200[0m 1.573 ms - 235[0m
+][]
+[2025-03-19T10:36:22.982Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:36:22.982Z] [info] : [[0mGET /v1/movies/ [32m200[0m 1.711 ms - 235[0m
+][]
+[2025-03-19T10:36:23.301Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:36:23.303Z] [info] : [[0mGET /v1/movies/ [32m200[0m 1.394 ms - 235[0m
+][]
+[2025-03-19T10:36:38.045Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:37:19.983Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:37:35.583Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:42:25.101Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:42:30.123Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:43:45.757Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:43:54.478Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:43:58.978Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:44:03.702Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:48:46.819Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:48:50.846Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:48:50.849Z] [info] : [[0mGET /v1/movies/ [32m200[0m 10.489 ms - 235[0m
+][]
+[2025-03-19T10:48:52.351Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:48:52.352Z] [info] : [[0mGET /v1/movies/ [32m200[0m 1.062 ms - 235[0m
+][]
+[2025-03-19T10:48:52.829Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:48:52.831Z] [info] : [[0mGET /v1/movies/ [32m200[0m 1.954 ms - 235[0m
+][]
+[2025-03-19T10:48:54.324Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:48:54.325Z] [info] : [[0mGET /v1/movies/ [32m200[0m 2.246 ms - 235[0m
+][]
+[2025-03-19T10:48:54.660Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T10:48:54.662Z] [info] : [[0mGET /v1/movies/ [32m200[0m 1.735 ms - 235[0m
+][]
+[2025-03-19T10:50:27.122Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:50:30.955Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:50:33.978Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:50:38.853Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:50:40.655Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:50:42.610Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:50:48.450Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:51:02.580Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:56:02.805Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:56:15.140Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:56:44.548Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:56:44.759Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:56:48.532Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:56:50.961Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:56:55.178Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:57:03.046Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:57:04.459Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:57:08.407Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:57:17.584Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:57:21.398Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:57:28.156Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:57:30.432Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:57:33.921Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:57:39.580Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:57:43.680Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:57:46.147Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:57:48.230Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:57:53.633Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:57:58.098Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:58:02.380Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:58:08.292Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:58:09.501Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:58:12.125Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:58:13.611Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:58:15.390Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:58:16.621Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:58:26.148Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:58:26.473Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:58:38.854Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:58:43.715Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:58:49.426Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:58:52.056Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:59:01.346Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:59:05.357Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:59:08.803Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:59:09.923Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:59:11.769Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:59:14.591Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:59:15.635Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:59:17.671Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:59:18.942Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:59:20.385Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:59:21.473Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:59:28.515Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:59:30.493Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:59:35.545Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:59:37.909Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T10:59:40.151Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:00:11.372Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:00:28.823Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:00:34.435Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:02:33.199Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:02:38.918Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:02:40.006Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:02:45.793Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:02:56.610Z] [info] : [[0mGET / [33m404[0m 1.323 ms - 139[0m
+][]
+[2025-03-19T11:03:08.268Z] [info] : [[0mGET /api-docs/ [32m200[0m 5.797 ms - 3106[0m
+][]
+[2025-03-19T11:03:08.292Z] [info] : [[0mGET /api-docs/swagger-ui.css [32m200[0m 4.630 ms - 154985[0m
+][]
+[2025-03-19T11:03:08.296Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [32m200[0m 4.522 ms - 229223[0m
+][]
+[2025-03-19T11:03:08.301Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [32m200[0m 4.316 ms - 1466324[0m
+][]
+[2025-03-19T11:03:56.450Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:04:00.774Z] [info] : [[0mGET /api-docs/ [32m200[0m 2.171 ms - 3106[0m
+][]
+[2025-03-19T11:04:00.789Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [32m200[0m 3.885 ms - 1445[0m
+][]
+[2025-03-19T11:04:00.793Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 1.030 ms - -[0m
+][]
+[2025-03-19T11:04:00.795Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 0.689 ms - -[0m
+][]
+[2025-03-19T11:04:00.798Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 3.153 ms - -[0m
+][]
+[2025-03-19T11:04:42.329Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:04:48.506Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:04:51.624Z] [info] : [[0mGET /api-docs/ [36m304[0m 2.873 ms - -[0m
+][]
+[2025-03-19T11:04:51.636Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 3.065 ms - -[0m
+][]
+[2025-03-19T11:04:51.639Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 4.895 ms - -[0m
+][]
+[2025-03-19T11:04:51.641Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 0.376 ms - -[0m
+][]
+[2025-03-19T11:04:51.643Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.291 ms - -[0m
+][]
+[2025-03-19T11:04:51.646Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [32m200[0m 1.096 ms - 258842[0m
+][]
+[2025-03-19T11:04:51.679Z] [info] : [[0mGET / [33m404[0m 0.725 ms - 139[0m
+][]
+[2025-03-19T11:04:51.687Z] [info] : [[0mGET /api-docs/favicon-32x32.png [32m200[0m 1.220 ms - 628[0m
+][]
+[2025-03-19T11:04:51.833Z] [info] : [[0mGET /api-docs/ [36m304[0m 0.994 ms - -[0m
+][]
+[2025-03-19T11:04:51.892Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.113 ms - -[0m
+][]
+[2025-03-19T11:04:51.892Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 25.707 ms - -[0m
+][]
+[2025-03-19T11:04:51.894Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 3.288 ms - -[0m
+][]
+[2025-03-19T11:04:51.894Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 2.524 ms - -[0m
+][]
+[2025-03-19T11:04:51.916Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.369 ms - -[0m
+][]
+[2025-03-19T11:04:51.932Z] [info] : [[0mGET / [33m404[0m 0.235 ms - 139[0m
+][]
+[2025-03-19T11:04:51.940Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.555 ms - -[0m
+][]
+[2025-03-19T11:04:52.391Z] [info] : [[0mGET /api-docs/ [36m304[0m 1.088 ms - -[0m
+][]
+[2025-03-19T11:04:52.409Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.271 ms - -[0m
+][]
+[2025-03-19T11:04:52.411Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 4.933 ms - -[0m
+][]
+[2025-03-19T11:04:52.412Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 5.318 ms - -[0m
+][]
+[2025-03-19T11:04:52.413Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 5.083 ms - -[0m
+][]
+[2025-03-19T11:04:52.434Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.523 ms - -[0m
+][]
+[2025-03-19T11:04:52.449Z] [info] : [[0mGET / [33m404[0m 3.285 ms - 139[0m
+][]
+[2025-03-19T11:04:52.458Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.891 ms - -[0m
+][]
+[2025-03-19T11:04:52.559Z] [info] : [[0mGET /api-docs/ [36m304[0m 1.004 ms - -[0m
+][]
+[2025-03-19T11:04:52.571Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.288 ms - -[0m
+][]
+[2025-03-19T11:04:52.573Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 2.633 ms - -[0m
+][]
+[2025-03-19T11:04:52.574Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 3.801 ms - -[0m
+][]
+[2025-03-19T11:04:52.574Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 4.519 ms - -[0m
+][]
+[2025-03-19T11:04:52.595Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.192 ms - -[0m
+][]
+[2025-03-19T11:04:52.611Z] [info] : [[0mGET / [33m404[0m 0.211 ms - 139[0m
+][]
+[2025-03-19T11:04:52.617Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.210 ms - -[0m
+][]
+[2025-03-19T11:04:52.782Z] [info] : [[0mGET /api-docs/ [36m304[0m 2.338 ms - -[0m
+][]
+[2025-03-19T11:04:52.794Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.191 ms - -[0m
+][]
+[2025-03-19T11:04:52.794Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 2.089 ms - -[0m
+][]
+[2025-03-19T11:04:52.794Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 1.848 ms - -[0m
+][]
+[2025-03-19T11:04:52.795Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 2.072 ms - -[0m
+][]
+[2025-03-19T11:04:52.819Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 1.071 ms - -[0m
+][]
+[2025-03-19T11:04:52.832Z] [info] : [[0mGET / [33m404[0m 0.186 ms - 139[0m
+][]
+[2025-03-19T11:04:52.841Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.204 ms - -[0m
+][]
+[2025-03-19T11:04:52.957Z] [info] : [[0mGET /api-docs/ [36m304[0m 1.019 ms - -[0m
+][]
+[2025-03-19T11:04:52.975Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.122 ms - -[0m
+][]
+[2025-03-19T11:04:52.975Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 4.916 ms - -[0m
+][]
+[2025-03-19T11:04:52.975Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 4.529 ms - -[0m
+][]
+[2025-03-19T11:04:52.976Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 1.253 ms - -[0m
+][]
+[2025-03-19T11:04:52.995Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.203 ms - -[0m
+][]
+[2025-03-19T11:04:53.010Z] [info] : [[0mGET / [33m404[0m 0.179 ms - 139[0m
+][]
+[2025-03-19T11:04:53.018Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 1.406 ms - -[0m
+][]
+[2025-03-19T11:05:02.038Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:05:05.228Z] [info] : [[0mGET /api-docs/ [36m304[0m 2.499 ms - -[0m
+][]
+[2025-03-19T11:05:05.248Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 1.707 ms - -[0m
+][]
+[2025-03-19T11:05:05.250Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 2.409 ms - -[0m
+][]
+[2025-03-19T11:05:05.251Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 0.216 ms - -[0m
+][]
+[2025-03-19T11:05:05.254Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.756 ms - -[0m
+][]
+[2025-03-19T11:05:05.256Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.225 ms - -[0m
+][]
+[2025-03-19T11:05:05.286Z] [info] : [[0mGET / [33m404[0m 0.727 ms - 139[0m
+][]
+[2025-03-19T11:05:05.292Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.760 ms - -[0m
+][]
+[2025-03-19T11:05:05.476Z] [info] : [[0mGET /api-docs/ [36m304[0m 2.220 ms - -[0m
+][]
+[2025-03-19T11:05:05.489Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.152 ms - -[0m
+][]
+[2025-03-19T11:05:05.490Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 3.847 ms - -[0m
+][]
+[2025-03-19T11:05:05.491Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 3.938 ms - -[0m
+][]
+[2025-03-19T11:05:05.491Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 2.910 ms - -[0m
+][]
+[2025-03-19T11:05:05.513Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.445 ms - -[0m
+][]
+[2025-03-19T11:05:05.528Z] [info] : [[0mGET / [33m404[0m 0.349 ms - 139[0m
+][]
+[2025-03-19T11:05:05.534Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.911 ms - -[0m
+][]
+[2025-03-19T11:05:05.925Z] [info] : [[0mGET /api-docs/ [36m304[0m 3.456 ms - -[0m
+][]
+[2025-03-19T11:05:05.938Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 1.745 ms - -[0m
+][]
+[2025-03-19T11:05:05.939Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 4.549 ms - -[0m
+][]
+[2025-03-19T11:05:05.940Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 4.643 ms - -[0m
+][]
+[2025-03-19T11:05:05.941Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 6.897 ms - -[0m
+][]
+[2025-03-19T11:05:05.962Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.249 ms - -[0m
+][]
+[2025-03-19T11:05:05.976Z] [info] : [[0mGET / [33m404[0m 0.191 ms - 139[0m
+][]
+[2025-03-19T11:05:05.984Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 1.696 ms - -[0m
+][]
+[2025-03-19T11:05:06.082Z] [info] : [[0mGET /api-docs/ [36m304[0m 1.490 ms - -[0m
+][]
+[2025-03-19T11:05:06.095Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.123 ms - -[0m
+][]
+[2025-03-19T11:05:06.096Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 4.858 ms - -[0m
+][]
+[2025-03-19T11:05:06.096Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 1.571 ms - -[0m
+][]
+[2025-03-19T11:05:06.097Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 1.637 ms - -[0m
+][]
+[2025-03-19T11:05:06.120Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 1.292 ms - -[0m
+][]
+[2025-03-19T11:05:06.132Z] [info] : [[0mGET / [33m404[0m 0.216 ms - 139[0m
+][]
+[2025-03-19T11:05:06.140Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.516 ms - -[0m
+][]
+[2025-03-19T11:05:06.284Z] [info] : [[0mGET /api-docs/ [36m304[0m 2.137 ms - -[0m
+][]
+[2025-03-19T11:05:06.297Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.523 ms - -[0m
+][]
+[2025-03-19T11:05:06.298Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 3.623 ms - -[0m
+][]
+[2025-03-19T11:05:06.298Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 3.557 ms - -[0m
+][]
+[2025-03-19T11:05:06.299Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 4.003 ms - -[0m
+][]
+[2025-03-19T11:05:06.319Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.411 ms - -[0m
+][]
+[2025-03-19T11:05:06.334Z] [info] : [[0mGET / [33m404[0m 0.209 ms - 139[0m
+][]
+[2025-03-19T11:05:06.342Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.467 ms - -[0m
+][]
+[2025-03-19T11:05:06.437Z] [info] : [[0mGET /api-docs/ [36m304[0m 1.066 ms - -[0m
+][]
+[2025-03-19T11:05:06.449Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 0.688 ms - -[0m
+][]
+[2025-03-19T11:05:06.451Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.097 ms - -[0m
+][]
+[2025-03-19T11:05:06.451Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 0.773 ms - -[0m
+][]
+[2025-03-19T11:05:06.452Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 1.584 ms - -[0m
+][]
+[2025-03-19T11:05:06.456Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.207 ms - -[0m
+][]
+[2025-03-19T11:05:06.486Z] [info] : [[0mGET / [33m404[0m 0.368 ms - 139[0m
+][]
+[2025-03-19T11:05:06.492Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.469 ms - -[0m
+][]
+[2025-03-19T11:05:06.588Z] [info] : [[0mGET /api-docs/ [36m304[0m 0.623 ms - -[0m
+][]
+[2025-03-19T11:05:06.599Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 2.356 ms - -[0m
+][]
+[2025-03-19T11:05:06.600Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.108 ms - -[0m
+][]
+[2025-03-19T11:05:06.601Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 0.741 ms - -[0m
+][]
+[2025-03-19T11:05:06.601Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 0.862 ms - -[0m
+][]
+[2025-03-19T11:05:06.624Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.212 ms - -[0m
+][]
+[2025-03-19T11:05:06.637Z] [info] : [[0mGET / [33m404[0m 0.456 ms - 139[0m
+][]
+[2025-03-19T11:05:06.641Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.273 ms - -[0m
+][]
+[2025-03-19T11:05:06.742Z] [info] : [[0mGET /api-docs/ [36m304[0m 0.610 ms - -[0m
+][]
+[2025-03-19T11:05:06.755Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.135 ms - -[0m
+][]
+[2025-03-19T11:05:06.755Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 1.724 ms - -[0m
+][]
+[2025-03-19T11:05:06.755Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 1.466 ms - -[0m
+][]
+[2025-03-19T11:05:06.756Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 1.781 ms - -[0m
+][]
+[2025-03-19T11:05:06.777Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.416 ms - -[0m
+][]
+[2025-03-19T11:05:06.791Z] [info] : [[0mGET / [33m404[0m 0.417 ms - 139[0m
+][]
+[2025-03-19T11:05:06.799Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.735 ms - -[0m
+][]
+[2025-03-19T11:05:06.867Z] [info] : [[0mGET /api-docs/ [36m304[0m 0.933 ms - -[0m
+][]
+[2025-03-19T11:05:06.879Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.128 ms - -[0m
+][]
+[2025-03-19T11:05:06.880Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 3.003 ms - -[0m
+][]
+[2025-03-19T11:05:06.880Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 1.728 ms - -[0m
+][]
+[2025-03-19T11:05:06.881Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 1.706 ms - -[0m
+][]
+[2025-03-19T11:05:06.900Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.209 ms - -[0m
+][]
+[2025-03-19T11:05:06.916Z] [info] : [[0mGET / [33m404[0m 0.337 ms - 139[0m
+][]
+[2025-03-19T11:05:06.925Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.354 ms - -[0m
+][]
+[2025-03-19T11:05:18.537Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:18.540Z] [info] : [[0mGET /v1/movies [32m200[0m 2.946 ms - 235[0m
+][]
+[2025-03-19T11:05:18.549Z] [info] : [[0mDELETE /v1/movies/1 [32m204[0m 1.521 ms - -[0m
+][]
+[2025-03-19T11:05:18.552Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:18.554Z] [info] : [[0mGET /v1/movies [32m200[0m 0.526 ms - 2[0m
+][]
+[2025-03-19T11:05:18.565Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:18.567Z] [info] : [[0mGET /v1/movies [36m304[0m 0.841 ms - -[0m
+][]
+[2025-03-19T11:05:18.627Z] [info] : [[0mPOST /v1/movies [32m201[0m 7.369 ms - 110[0m
+][]
+[2025-03-19T11:05:18.629Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:18.629Z] [info] : [[0mGET /v1/movies [32m200[0m 0.163 ms - 112[0m
+][]
+[2025-03-19T11:05:18.632Z] [info] : [[0mDELETE /v1/movies/2 [32m204[0m 0.213 ms - -[0m
+][]
+[2025-03-19T11:05:18.686Z] [info] : [[0mPOST /v1/movies [33m400[0m 0.452 ms - 74[0m
+][]
+[2025-03-19T11:05:18.688Z] [info] : [[0mPOST /v1/movies [33m400[0m 0.301 ms - 74[0m
+][]
+[2025-03-19T11:05:18.690Z] [info] : [[0mPOST /v1/movies [33m400[0m 0.247 ms - 74[0m
+][]
+[2025-03-19T11:05:18.694Z] [info] : [[0mPOST /v1/movies [33m400[0m 0.301 ms - 74[0m
+][]
+[2025-03-19T11:05:18.696Z] [info] : [[0mPOST /v1/movies [33m400[0m 0.292 ms - 74[0m
+][]
+[2025-03-19T11:05:18.698Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:18.699Z] [info] : [[0mGET /v1/movies [32m200[0m 0.538 ms - 2[0m
+][]
+[2025-03-19T11:05:18.796Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.315 ms - 110[0m
+][]
+[2025-03-19T11:05:18.804Z] [info] : [[0mDELETE /v1/movies/3 [32m204[0m 0.134 ms - -[0m
+][]
+[2025-03-19T11:05:18.806Z] [info] : [[0mGET /v1/movies/3 [33m404[0m 0.254 ms - 30[0m
+][]
+[2025-03-19T11:05:18.808Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:18.809Z] [info] : [[0mGET /v1/movies [32m200[0m 0.480 ms - 2[0m
+][]
+[2025-03-19T11:05:18.864Z] [info] : [[0mDELETE /v1/movies/99999 [33m404[0m 0.142 ms - 30[0m
+][]
+[2025-03-19T11:05:18.868Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:18.869Z] [info] : [[0mGET /v1/movies [36m304[0m 0.233 ms - -[0m
+][]
+[2025-03-19T11:05:18.923Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.468 ms - 110[0m
+][]
+[2025-03-19T11:05:18.932Z] [info] : [[0mPOST /v1/movies/4/reviews [32m201[0m 0.904 ms - 153[0m
+][]
+[2025-03-19T11:05:18.935Z] [info] : [[0mGET /v1/movies/4/reviews [32m200[0m 0.357 ms - 45[0m
+][]
+[2025-03-19T11:05:18.936Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:18.937Z] [info] : [[0mGET /v1/movies [32m200[0m 0.325 ms - 155[0m
+][]
+[2025-03-19T11:05:18.939Z] [info] : [[0mDELETE /v1/movies/4 [32m204[0m 0.093 ms - -[0m
+][]
+[2025-03-19T11:05:18.993Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.309 ms - 110[0m
+][]
+[2025-03-19T11:05:18.998Z] [info] : [[0mPOST /v1/movies/5/reviews [33m400[0m 0.328 ms - 78[0m
+][]
+[2025-03-19T11:05:19.000Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:19.001Z] [info] : [[0mGET /v1/movies [32m200[0m 0.217 ms - 112[0m
+][]
+[2025-03-19T11:05:19.004Z] [info] : [[0mDELETE /v1/movies/5 [32m204[0m 0.171 ms - -[0m
+][]
+[2025-03-19T11:05:19.057Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.292 ms - 110[0m
+][]
+[2025-03-19T11:05:19.065Z] [info] : [[0mPOST /v1/movies/6/reviews [32m201[0m 0.692 ms - 152[0m
+][]
+[2025-03-19T11:05:19.068Z] [info] : [[0mPOST /v1/movies/6/reviews [32m201[0m 0.271 ms - 196[0m
+][]
+[2025-03-19T11:05:19.070Z] [info] : [[0mPOST /v1/movies/6/reviews [32m201[0m 0.274 ms - 243[0m
+][]
+[2025-03-19T11:05:19.073Z] [info] : [[0mGET /v1/movies/6 [32m200[0m 0.291 ms - 243[0m
+][]
+[2025-03-19T11:05:19.076Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:19.076Z] [info] : [[0mGET /v1/movies [32m200[0m 0.446 ms - 245[0m
+][]
+[2025-03-19T11:05:19.079Z] [info] : [[0mDELETE /v1/movies/6 [32m204[0m 0.147 ms - -[0m
+][]
+[2025-03-19T11:05:19.133Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.252 ms - 109[0m
+][]
+[2025-03-19T11:05:19.134Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.407 ms - 113[0m
+][]
+[2025-03-19T11:05:19.135Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.157 ms - 112[0m
+][]
+[2025-03-19T11:05:19.135Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.123 ms - 113[0m
+][]
+[2025-03-19T11:05:19.136Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.141 ms - 113[0m
+][]
+[2025-03-19T11:05:19.137Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:19.137Z] [info] : [[0mGET /v1/movies [32m200[0m 0.267 ms - 566[0m
+][]
+[2025-03-19T11:05:19.139Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:19.139Z] [info] : [[0mGET /v1/movies [36m304[0m 0.240 ms - -[0m
+][]
+[2025-03-19T11:05:19.143Z] [info] : [[0mDELETE /v1/movies/11 [32m204[0m 0.221 ms - -[0m
+][]
+[2025-03-19T11:05:19.145Z] [info] : [[0mDELETE /v1/movies/10 [32m204[0m 0.099 ms - -[0m
+][]
+[2025-03-19T11:05:19.147Z] [info] : [[0mDELETE /v1/movies/9 [32m204[0m 0.104 ms - -[0m
+][]
+[2025-03-19T11:05:19.152Z] [info] : [[0mDELETE /v1/movies/8 [32m204[0m 0.135 ms - -[0m
+][]
+[2025-03-19T11:05:19.154Z] [info] : [[0mDELETE /v1/movies/7 [32m204[0m 0.084 ms - -[0m
+][]
+[2025-03-19T11:05:19.208Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.757 ms - 121[0m
+][]
+[2025-03-19T11:05:19.209Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.477 ms - 123[0m
+][]
+[2025-03-19T11:05:19.210Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.246 ms - 122[0m
+][]
+[2025-03-19T11:05:19.211Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.514 ms - 116[0m
+][]
+[2025-03-19T11:05:19.215Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{"keyword":"space"}}]
+[2025-03-19T11:05:19.216Z] [info] : [[0mGET /v1/movies?keyword=space [36m304[0m 0.436 ms - -[0m
+][]
+[2025-03-19T11:05:19.219Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{"keyword":"romance"}}]
+[2025-03-19T11:05:19.220Z] [info] : [[0mGET /v1/movies?keyword=romance [36m304[0m 0.249 ms - -[0m
+][]
+[2025-03-19T11:05:19.221Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:19.222Z] [info] : [[0mGET /v1/movies [32m200[0m 0.361 ms - 487[0m
+][]
+[2025-03-19T11:05:19.228Z] [info] : [[0mDELETE /v1/movies/15 [32m204[0m 0.156 ms - -[0m
+][]
+[2025-03-19T11:05:19.229Z] [info] : [[0mDELETE /v1/movies/14 [32m204[0m 0.103 ms - -[0m
+][]
+[2025-03-19T11:05:19.231Z] [info] : [[0mDELETE /v1/movies/13 [32m204[0m 0.100 ms - -[0m
+][]
+[2025-03-19T11:05:19.235Z] [info] : [[0mDELETE /v1/movies/12 [32m204[0m 0.110 ms - -[0m
+][]
+[2025-03-19T11:05:19.288Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.264 ms - 117[0m
+][]
+[2025-03-19T11:05:19.294Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.258 ms - 116[0m
+][]
+[2025-03-19T11:05:19.295Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.262 ms - 119[0m
+][]
+[2025-03-19T11:05:19.303Z] [info] : [[0mPOST /v1/movies/16/reviews [32m201[0m 0.447 ms - 159[0m
+][]
+[2025-03-19T11:05:19.304Z] [info] : [[0mPOST /v1/movies/16/reviews [32m201[0m 0.303 ms - 200[0m
+][]
+[2025-03-19T11:05:19.305Z] [info] : [[0mPOST /v1/movies/18/reviews [32m201[0m 0.575 ms - 155[0m
+][]
+[2025-03-19T11:05:19.306Z] [info] : [[0mPOST /v1/movies/18/reviews [32m201[0m 0.364 ms - 196[0m
+][]
+[2025-03-19T11:05:19.307Z] [info] : [[0mPOST /v1/movies/17/reviews [32m201[0m 0.261 ms - 157[0m
+][]
+[2025-03-19T11:05:19.308Z] [info] : [[0mPOST /v1/movies/17/reviews [32m201[0m 0.796 ms - 199[0m
+][]
+[2025-03-19T11:05:19.312Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{"sort":"-rating"}}]
+[2025-03-19T11:05:19.312Z] [info] : [[0mGET /v1/movies?sort=-rating [32m200[0m 0.263 ms - 599[0m
+][]
+[2025-03-19T11:05:19.316Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{"sort":"rating"}}]
+[2025-03-19T11:05:19.316Z] [info] : [[0mGET /v1/movies?sort=rating [32m200[0m 0.327 ms - 599[0m
+][]
+[2025-03-19T11:05:19.318Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:19.319Z] [info] : [[0mGET /v1/movies [32m200[0m 0.245 ms - 599[0m
+][]
+[2025-03-19T11:05:19.321Z] [info] : [[0mDELETE /v1/movies/18 [32m204[0m 0.114 ms - -[0m
+][]
+[2025-03-19T11:05:19.323Z] [info] : [[0mDELETE /v1/movies/17 [32m204[0m 0.173 ms - -[0m
+][]
+[2025-03-19T11:05:19.326Z] [info] : [[0mDELETE /v1/movies/16 [32m204[0m 0.127 ms - -[0m
+][]
+[2025-03-19T11:05:19.381Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.724 ms - 126[0m
+][]
+[2025-03-19T11:05:19.383Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.433 ms - 126[0m
+][]
+[2025-03-19T11:05:19.384Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.337 ms - 126[0m
+][]
+[2025-03-19T11:05:19.385Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.414 ms - 126[0m
+][]
+[2025-03-19T11:05:19.386Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.253 ms - 126[0m
+][]
+[2025-03-19T11:05:19.386Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.268 ms - 126[0m
+][]
+[2025-03-19T11:05:19.387Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.132 ms - 126[0m
+][]
+[2025-03-19T11:05:19.388Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.196 ms - 126[0m
+][]
+[2025-03-19T11:05:19.389Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.240 ms - 126[0m
+][]
+[2025-03-19T11:05:19.390Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.884 ms - 128[0m
+][]
+[2025-03-19T11:05:19.395Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{"page":"1","limit":"3"}}]
+[2025-03-19T11:05:19.396Z] [info] : [[0mGET /v1/movies?page=1&limit=3 [32m200[0m 0.325 ms - 384[0m
+][]
+[2025-03-19T11:05:19.399Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{"page":"2","limit":"3"}}]
+[2025-03-19T11:05:19.400Z] [info] : [[0mGET /v1/movies?page=2&limit=3 [36m304[0m 0.240 ms - -[0m
+][]
+[2025-03-19T11:05:19.403Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{"page":"4","limit":"3"}}]
+[2025-03-19T11:05:19.403Z] [info] : [[0mGET /v1/movies?page=4&limit=3 [36m304[0m 0.265 ms - -[0m
+][]
+[2025-03-19T11:05:19.405Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:19.406Z] [info] : [[0mGET /v1/movies [32m200[0m 0.177 ms - 1273[0m
+][]
+[2025-03-19T11:05:19.410Z] [info] : [[0mDELETE /v1/movies/28 [32m204[0m 0.219 ms - -[0m
+][]
+[2025-03-19T11:05:19.412Z] [info] : [[0mDELETE /v1/movies/27 [32m204[0m 0.129 ms - -[0m
+][]
+[2025-03-19T11:05:19.414Z] [info] : [[0mDELETE /v1/movies/26 [32m204[0m 0.180 ms - -[0m
+][]
+[2025-03-19T11:05:19.419Z] [info] : [[0mDELETE /v1/movies/25 [32m204[0m 0.794 ms - -[0m
+][]
+[2025-03-19T11:05:19.422Z] [info] : [[0mDELETE /v1/movies/24 [32m204[0m 0.175 ms - -[0m
+][]
+[2025-03-19T11:05:19.427Z] [info] : [[0mDELETE /v1/movies/23 [32m204[0m 0.136 ms - -[0m
+][]
+[2025-03-19T11:05:19.429Z] [info] : [[0mDELETE /v1/movies/22 [32m204[0m 0.107 ms - -[0m
+][]
+[2025-03-19T11:05:19.432Z] [info] : [[0mDELETE /v1/movies/21 [32m204[0m 0.209 ms - -[0m
+][]
+[2025-03-19T11:05:19.437Z] [info] : [[0mDELETE /v1/movies/20 [32m204[0m 0.256 ms - -[0m
+][]
+[2025-03-19T11:05:19.440Z] [info] : [[0mDELETE /v1/movies/19 [32m204[0m 0.139 ms - -[0m
+][]
+[2025-03-19T11:05:19.493Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.271 ms - 111[0m
+][]
+[2025-03-19T11:05:19.497Z] [info] : [[0mGET /v1/movies/29 [32m200[0m 0.108 ms - 111[0m
+][]
+[2025-03-19T11:05:19.500Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:19.501Z] [info] : [[0mGET /v1/movies [32m200[0m 0.209 ms - 113[0m
+][]
+[2025-03-19T11:05:19.503Z] [info] : [[0mDELETE /v1/movies/29 [32m204[0m 0.103 ms - -[0m
+][]
+[2025-03-19T11:05:19.556Z] [info] : [[0mGET /v1/movies/99999 [33m404[0m 0.149 ms - 30[0m
+][]
+[2025-03-19T11:05:19.563Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:19.563Z] [info] : [[0mGET /v1/movies [32m200[0m 0.284 ms - 2[0m
+][]
+[2025-03-19T11:05:19.617Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.247 ms - 111[0m
+][]
+[2025-03-19T11:05:19.621Z] [info] : [[0mPUT /v1/movies/30 [32m200[0m 0.292 ms - 114[0m
+][]
+[2025-03-19T11:05:19.623Z] [info] : [[0mPUT /v1/movies/30 [32m200[0m 0.151 ms - 132[0m
+][]
+[2025-03-19T11:05:19.627Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:19.627Z] [info] : [[0mGET /v1/movies [32m200[0m 0.253 ms - 134[0m
+][]
+[2025-03-19T11:05:19.629Z] [info] : [[0mDELETE /v1/movies/30 [32m204[0m 0.096 ms - -[0m
+][]
+[2025-03-19T11:05:19.683Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.266 ms - 111[0m
+][]
+[2025-03-19T11:05:19.688Z] [info] : [[0mPUT /v1/movies/31 [33m400[0m 0.189 ms - 74[0m
+][]
+[2025-03-19T11:05:19.689Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:19.689Z] [info] : [[0mGET /v1/movies [32m200[0m 0.366 ms - 113[0m
+][]
+[2025-03-19T11:05:19.693Z] [info] : [[0mDELETE /v1/movies/31 [32m204[0m 0.138 ms - -[0m
+][]
+[2025-03-19T11:05:19.747Z] [info] : [[0mPUT /v1/movies/99999 [33m404[0m 0.238 ms - 23[0m
+][]
+[2025-03-19T11:05:19.752Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:19.752Z] [info] : [[0mGET /v1/movies [32m200[0m 0.247 ms - 2[0m
+][]
+[2025-03-19T11:05:19.806Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.830 ms - 111[0m
+][]
+[2025-03-19T11:05:19.813Z] [info] : [[0mPOST /v1/movies/32/reviews [32m201[0m 0.832 ms - 154[0m
+][]
+[2025-03-19T11:05:19.816Z] [info] : [[0mPOST /v1/movies/32/reviews [32m201[0m 0.502 ms - 199[0m
+][]
+[2025-03-19T11:05:19.818Z] [info] : [[0mGET /v1/movies/32/reviews [32m200[0m 0.169 ms - 90[0m
+][]
+[2025-03-19T11:05:19.820Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:19.820Z] [info] : [[0mGET /v1/movies [32m200[0m 0.185 ms - 201[0m
+][]
+[2025-03-19T11:05:19.823Z] [info] : [[0mDELETE /v1/movies/32 [32m204[0m 0.110 ms - -[0m
+][]
+[2025-03-19T11:05:19.879Z] [info] : [[0mGET /v1/movies/99999/reviews [33m404[0m 0.431 ms - 30[0m
+][]
+[2025-03-19T11:05:19.884Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:05:19.886Z] [info] : [[0mGET /v1/movies [32m200[0m 1.051 ms - 2[0m
+][]
+[2025-03-19T11:06:04.527Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:06:09.215Z] [info] : [[0mGET /api-docs/ [36m304[0m 3.660 ms - -[0m
+][]
+[2025-03-19T11:06:09.458Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:06:10.465Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 2.009 ms - -[0m
+][]
+[2025-03-19T11:06:10.472Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.654 ms - -[0m
+][]
+[2025-03-19T11:06:12.195Z] [info] : [[0mGET /api-docs/ [36m304[0m 6.654 ms - -[0m
+][]
+[2025-03-19T11:06:12.211Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 1.664 ms - -[0m
+][]
+[2025-03-19T11:06:12.213Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 1.800 ms - -[0m
+][]
+[2025-03-19T11:06:12.216Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 0.578 ms - -[0m
+][]
+[2025-03-19T11:06:12.218Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.150 ms - -[0m
+][]
+[2025-03-19T11:06:12.222Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.902 ms - -[0m
+][]
+[2025-03-19T11:06:12.323Z] [info] : [[0mGET / [33m404[0m 6.275 ms - 139[0m
+][]
+[2025-03-19T11:06:12.324Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.186 ms - -[0m
+][]
+[2025-03-19T11:06:16.402Z] [info] : [[0mGET /api-docs/ [36m304[0m 1.776 ms - -[0m
+][]
+[2025-03-19T11:06:16.422Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 1.963 ms - -[0m
+][]
+[2025-03-19T11:06:16.424Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 2.360 ms - -[0m
+][]
+[2025-03-19T11:06:16.425Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 0.220 ms - -[0m
+][]
+[2025-03-19T11:06:16.426Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.143 ms - -[0m
+][]
+[2025-03-19T11:06:16.429Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.213 ms - -[0m
+][]
+[2025-03-19T11:06:16.525Z] [info] : [[0mGET / [33m404[0m 0.490 ms - 139[0m
+][]
+[2025-03-19T11:06:16.527Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.458 ms - -[0m
+][]
+[2025-03-19T11:06:17.123Z] [info] : [[0mGET /api-docs/ [36m304[0m 2.040 ms - -[0m
+][]
+[2025-03-19T11:06:17.140Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.623 ms - -[0m
+][]
+[2025-03-19T11:06:17.142Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 4.146 ms - -[0m
+][]
+[2025-03-19T11:06:17.142Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 4.886 ms - -[0m
+][]
+[2025-03-19T11:06:17.144Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 5.705 ms - -[0m
+][]
+[2025-03-19T11:06:17.149Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.235 ms - -[0m
+][]
+[2025-03-19T11:06:17.181Z] [info] : [[0mGET / [33m404[0m 0.273 ms - 139[0m
+][]
+[2025-03-19T11:06:17.184Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.281 ms - -[0m
+][]
+[2025-03-19T11:06:17.346Z] [info] : [[0mGET /api-docs/ [36m304[0m 0.899 ms - -[0m
+][]
+[2025-03-19T11:06:17.359Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.164 ms - -[0m
+][]
+[2025-03-19T11:06:17.360Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 3.302 ms - -[0m
+][]
+[2025-03-19T11:06:17.361Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 2.135 ms - -[0m
+][]
+[2025-03-19T11:06:17.361Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 2.458 ms - -[0m
+][]
+[2025-03-19T11:06:17.383Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.663 ms - -[0m
+][]
+[2025-03-19T11:06:17.394Z] [info] : [[0mGET / [33m404[0m 0.420 ms - 139[0m
+][]
+[2025-03-19T11:06:17.398Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.490 ms - -[0m
+][]
+[2025-03-19T11:06:17.519Z] [info] : [[0mGET /api-docs/ [36m304[0m 1.615 ms - -[0m
+][]
+[2025-03-19T11:06:17.531Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 1.090 ms - -[0m
+][]
+[2025-03-19T11:06:17.531Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 3.441 ms - -[0m
+][]
+[2025-03-19T11:06:17.532Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 3.136 ms - -[0m
+][]
+[2025-03-19T11:06:17.532Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 2.896 ms - -[0m
+][]
+[2025-03-19T11:06:17.553Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.400 ms - -[0m
+][]
+[2025-03-19T11:06:17.562Z] [info] : [[0mGET / [33m404[0m 0.178 ms - 139[0m
+][]
+[2025-03-19T11:06:17.571Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 2.043 ms - -[0m
+][]
+[2025-03-19T11:06:17.708Z] [info] : [[0mGET /api-docs/ [36m304[0m 1.575 ms - -[0m
+][]
+[2025-03-19T11:06:17.719Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.112 ms - -[0m
+][]
+[2025-03-19T11:06:17.719Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 1.221 ms - -[0m
+][]
+[2025-03-19T11:06:17.719Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 1.011 ms - -[0m
+][]
+[2025-03-19T11:06:17.719Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 0.962 ms - -[0m
+][]
+[2025-03-19T11:06:17.780Z] [info] : [[0mGET / [33m404[0m 0.325 ms - 139[0m
+][]
+[2025-03-19T11:06:17.782Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 1.263 ms - -[0m
+][]
+[2025-03-19T11:06:17.783Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 1.014 ms - -[0m
+][]
+[2025-03-19T11:06:17.898Z] [info] : [[0mGET /api-docs/ [36m304[0m 0.332 ms - -[0m
+][]
+[2025-03-19T11:06:17.906Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 0.220 ms - -[0m
+][]
+[2025-03-19T11:06:17.910Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.111 ms - -[0m
+][]
+[2025-03-19T11:06:17.911Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 1.160 ms - -[0m
+][]
+[2025-03-19T11:06:17.913Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 1.516 ms - -[0m
+][]
+[2025-03-19T11:06:17.915Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.191 ms - -[0m
+][]
+[2025-03-19T11:06:17.942Z] [info] : [[0mGET / [33m404[0m 0.257 ms - 139[0m
+][]
+[2025-03-19T11:06:17.944Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.180 ms - -[0m
+][]
+[2025-03-19T11:06:18.316Z] [info] : [[0mGET /api-docs/ [36m304[0m 1.222 ms - -[0m
+][]
+[2025-03-19T11:06:18.331Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.329 ms - -[0m
+][]
+[2025-03-19T11:06:18.332Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 3.505 ms - -[0m
+][]
+[2025-03-19T11:06:18.333Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 4.215 ms - -[0m
+][]
+[2025-03-19T11:06:18.334Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 4.665 ms - -[0m
+][]
+[2025-03-19T11:06:18.361Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.201 ms - -[0m
+][]
+[2025-03-19T11:06:18.372Z] [info] : [[0mGET / [33m404[0m 0.192 ms - 139[0m
+][]
+[2025-03-19T11:06:18.377Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.280 ms - -[0m
+][]
+[2025-03-19T11:06:18.534Z] [info] : [[0mGET /api-docs/ [36m304[0m 1.925 ms - -[0m
+][]
+[2025-03-19T11:06:18.548Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.200 ms - -[0m
+][]
+[2025-03-19T11:06:18.549Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 2.079 ms - -[0m
+][]
+[2025-03-19T11:06:18.549Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 2.147 ms - -[0m
+][]
+[2025-03-19T11:06:18.550Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 3.252 ms - -[0m
+][]
+[2025-03-19T11:06:18.572Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.262 ms - -[0m
+][]
+[2025-03-19T11:06:18.586Z] [info] : [[0mGET / [33m404[0m 0.304 ms - 139[0m
+][]
+[2025-03-19T11:06:18.588Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.276 ms - -[0m
+][]
+[2025-03-19T11:07:01.594Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:07:05.783Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:07:07.697Z] [info] : [[0mGET /api-docs/ [36m304[0m 2.078 ms - -[0m
+][]
+[2025-03-19T11:07:07.708Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 1.396 ms - -[0m
+][]
+[2025-03-19T11:07:07.710Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 1.491 ms - -[0m
+][]
+[2025-03-19T11:07:07.711Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 0.198 ms - -[0m
+][]
+[2025-03-19T11:07:07.717Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [32m200[0m 0.677 ms - 1764[0m
+][]
+[2025-03-19T11:07:07.797Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 4.765 ms - -[0m
+][]
+[2025-03-19T11:07:07.798Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 5.477 ms - -[0m
+][]
+[2025-03-19T11:07:07.994Z] [info] : [[0mGET /api-docs/ [36m304[0m 0.539 ms - -[0m
+][]
+[2025-03-19T11:07:08.005Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 2.510 ms - -[0m
+][]
+[2025-03-19T11:07:08.008Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.356 ms - -[0m
+][]
+[2025-03-19T11:07:08.019Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 10.118 ms - -[0m
+][]
+[2025-03-19T11:07:08.020Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 11.629 ms - -[0m
+][]
+[2025-03-19T11:07:08.026Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 1.865 ms - -[0m
+][]
+[2025-03-19T11:07:08.062Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.444 ms - -[0m
+][]
+[2025-03-19T11:10:02.293Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:10:07.070Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:10:24.341Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:10:34.249Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:10:37.009Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:10:38.568Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:10:45.144Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:11:41.049Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:12:23.005Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:12:55.010Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:13:09.915Z] [info] : [[0mGET /api-docs/ [36m304[0m 3.936 ms - -[0m
+][]
+[2025-03-19T11:13:09.981Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 13.607 ms - -[0m
+][]
+[2025-03-19T11:13:09.982Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 9.142 ms - -[0m
+][]
+[2025-03-19T11:13:09.984Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 0.298 ms - -[0m
+][]
+[2025-03-19T11:13:09.985Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [32m200[0m 0.327 ms - 7586[0m
+][]
+[2025-03-19T11:13:09.999Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.218 ms - -[0m
+][]
+[2025-03-19T11:13:10.118Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 1.021 ms - -[0m
+][]
+[2025-03-19T11:13:10.293Z] [info] : [[0mGET /api-docs/ [36m304[0m 0.706 ms - -[0m
+][]
+[2025-03-19T11:13:10.308Z] [info] : [[0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.212 ms - -[0m
+][]
+[2025-03-19T11:13:10.309Z] [info] : [[0mGET /api-docs/swagger-ui.css [36m304[0m 6.671 ms - -[0m
+][]
+[2025-03-19T11:13:10.310Z] [info] : [[0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 3.836 ms - -[0m
+][]
+[2025-03-19T11:13:10.311Z] [info] : [[0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 3.828 ms - -[0m
+][]
+[2025-03-19T11:13:10.315Z] [info] : [[0mGET /api-docs/swagger-ui.css.map [36m304[0m 0.397 ms - -[0m
+][]
+[2025-03-19T11:13:10.440Z] [info] : [[0mGET /api-docs/favicon-32x32.png [36m304[0m 0.281 ms - -[0m
+][]
+[2025-03-19T11:13:29.539Z] [info] : [[0mGET /movies?keyword=111 [33m404[0m 1.901 ms - 145[0m
+][]
+[2025-03-19T11:14:59.362Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:15:02.075Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:15:05.085Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:15:07.648Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:15:10.164Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:15:12.560Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:15:16.556Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:23:02.412Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:23:15.475Z] [info] [index.js]: [server listening on port 3000][]
+[2025-03-19T11:23:16.011Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:16.017Z] [info] : [[0mGET /v1/movies [32m200[0m 5.120 ms - 235[0m
+][]
+[2025-03-19T11:23:16.027Z] [info] : [[0mDELETE /v1/movies/1 [32m204[0m 1.438 ms - -[0m
+][]
+[2025-03-19T11:23:16.032Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:16.036Z] [info] : [[0mGET /v1/movies [32m200[0m 0.969 ms - 2[0m
+][]
+[2025-03-19T11:23:16.038Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:16.039Z] [info] : [[0mGET /v1/movies [36m304[0m 0.452 ms - -[0m
+][]
+[2025-03-19T11:23:16.102Z] [info] : [[0mPOST /v1/movies [32m201[0m 8.524 ms - 110[0m
+][]
+[2025-03-19T11:23:16.105Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:16.107Z] [info] : [[0mGET /v1/movies [32m200[0m 0.394 ms - 112[0m
+][]
+[2025-03-19T11:23:16.111Z] [info] : [[0mDELETE /v1/movies/2 [32m204[0m 0.304 ms - -[0m
+][]
+[2025-03-19T11:23:16.167Z] [info] : [[0mPOST /v1/movies [33m400[0m 0.893 ms - 74[0m
+][]
+[2025-03-19T11:23:16.171Z] [info] : [[0mPOST /v1/movies [33m400[0m 1.002 ms - 74[0m
+][]
+[2025-03-19T11:23:16.175Z] [info] : [[0mPOST /v1/movies [33m400[0m 0.715 ms - 74[0m
+][]
+[2025-03-19T11:23:16.178Z] [info] : [[0mPOST /v1/movies [33m400[0m 0.541 ms - 74[0m
+][]
+[2025-03-19T11:23:16.181Z] [info] : [[0mPOST /v1/movies [33m400[0m 0.301 ms - 74[0m
+][]
+[2025-03-19T11:23:16.183Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:16.184Z] [info] : [[0mGET /v1/movies [32m200[0m 0.539 ms - 2[0m
+][]
+[2025-03-19T11:23:16.245Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.673 ms - 110[0m
+][]
+[2025-03-19T11:23:16.250Z] [info] : [[0mDELETE /v1/movies/3 [32m204[0m 2.348 ms - -[0m
+][]
+[2025-03-19T11:23:16.253Z] [info] : [[0mGET /v1/movies/3 [33m404[0m 0.532 ms - 30[0m
+][]
+[2025-03-19T11:23:16.255Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:16.255Z] [info] : [[0mGET /v1/movies [32m200[0m 0.214 ms - 2[0m
+][]
+[2025-03-19T11:23:16.309Z] [info] : [[0mDELETE /v1/movies/99999 [33m404[0m 0.167 ms - 30[0m
+][]
+[2025-03-19T11:23:16.311Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:16.312Z] [info] : [[0mGET /v1/movies [36m304[0m 0.243 ms - -[0m
+][]
+[2025-03-19T11:23:16.365Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.332 ms - 110[0m
+][]
+[2025-03-19T11:23:16.369Z] [info] : [[0mPOST /v1/movies/4/reviews [32m201[0m 0.965 ms - 153[0m
+][]
+[2025-03-19T11:23:16.373Z] [info] : [[0mGET /v1/movies/4/reviews [32m200[0m 0.318 ms - 45[0m
+][]
+[2025-03-19T11:23:16.375Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:16.375Z] [info] : [[0mGET /v1/movies [32m200[0m 0.248 ms - 155[0m
+][]
+[2025-03-19T11:23:16.377Z] [info] : [[0mDELETE /v1/movies/4 [32m204[0m 0.116 ms - -[0m
+][]
+[2025-03-19T11:23:16.431Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.465 ms - 110[0m
+][]
+[2025-03-19T11:23:16.434Z] [info] : [[0mPOST /v1/movies/5/reviews [33m400[0m 0.273 ms - 78[0m
+][]
+[2025-03-19T11:23:16.436Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:16.436Z] [info] : [[0mGET /v1/movies [32m200[0m 0.199 ms - 112[0m
+][]
+[2025-03-19T11:23:16.440Z] [info] : [[0mDELETE /v1/movies/5 [32m204[0m 0.140 ms - -[0m
+][]
+[2025-03-19T11:23:16.495Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.993 ms - 110[0m
+][]
+[2025-03-19T11:23:16.499Z] [info] : [[0mPOST /v1/movies/6/reviews [32m201[0m 0.580 ms - 152[0m
+][]
+[2025-03-19T11:23:16.502Z] [info] : [[0mPOST /v1/movies/6/reviews [32m201[0m 0.548 ms - 196[0m
+][]
+[2025-03-19T11:23:16.506Z] [info] : [[0mPOST /v1/movies/6/reviews [32m201[0m 0.906 ms - 243[0m
+][]
+[2025-03-19T11:23:16.509Z] [info] : [[0mGET /v1/movies/6 [32m200[0m 0.228 ms - 243[0m
+][]
+[2025-03-19T11:23:16.511Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:16.511Z] [info] : [[0mGET /v1/movies [32m200[0m 0.404 ms - 245[0m
+][]
+[2025-03-19T11:23:16.514Z] [info] : [[0mDELETE /v1/movies/6 [32m204[0m 0.143 ms - -[0m
+][]
+[2025-03-19T11:23:16.570Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.720 ms - 109[0m
+][]
+[2025-03-19T11:23:16.572Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.414 ms - 113[0m
+][]
+[2025-03-19T11:23:16.573Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.213 ms - 112[0m
+][]
+[2025-03-19T11:23:16.574Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.153 ms - 113[0m
+][]
+[2025-03-19T11:23:16.574Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.179 ms - 113[0m
+][]
+[2025-03-19T11:23:16.576Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:16.576Z] [info] : [[0mGET /v1/movies [32m200[0m 0.169 ms - 566[0m
+][]
+[2025-03-19T11:23:16.578Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:16.578Z] [info] : [[0mGET /v1/movies [36m304[0m 0.205 ms - -[0m
+][]
+[2025-03-19T11:23:16.581Z] [info] : [[0mDELETE /v1/movies/11 [32m204[0m 0.146 ms - -[0m
+][]
+[2025-03-19T11:23:16.584Z] [info] : [[0mDELETE /v1/movies/10 [32m204[0m 0.125 ms - -[0m
+][]
+[2025-03-19T11:23:16.586Z] [info] : [[0mDELETE /v1/movies/9 [32m204[0m 0.121 ms - -[0m
+][]
+[2025-03-19T11:23:16.588Z] [info] : [[0mDELETE /v1/movies/8 [32m204[0m 0.104 ms - -[0m
+][]
+[2025-03-19T11:23:16.590Z] [info] : [[0mDELETE /v1/movies/7 [32m204[0m 0.077 ms - -[0m
+][]
+[2025-03-19T11:23:16.645Z] [info] : [[0mPOST /v1/movies [32m201[0m 1.384 ms - 121[0m
+][]
+[2025-03-19T11:23:16.647Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.416 ms - 123[0m
+][]
+[2025-03-19T11:23:16.648Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.338 ms - 122[0m
+][]
+[2025-03-19T11:23:16.649Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.242 ms - 116[0m
+][]
+[2025-03-19T11:23:16.654Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{"keyword":"space"}}]
+[2025-03-19T11:23:16.655Z] [info] : [[0mGET /v1/movies?keyword=space [36m304[0m 0.321 ms - -[0m
+][]
+[2025-03-19T11:23:16.659Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{"keyword":"romance"}}]
+[2025-03-19T11:23:16.659Z] [info] : [[0mGET /v1/movies?keyword=romance [36m304[0m 0.277 ms - -[0m
+][]
+[2025-03-19T11:23:16.663Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:16.665Z] [info] : [[0mGET /v1/movies [32m200[0m 0.316 ms - 487[0m
+][]
+[2025-03-19T11:23:16.667Z] [info] : [[0mDELETE /v1/movies/15 [32m204[0m 0.139 ms - -[0m
+][]
+[2025-03-19T11:23:16.669Z] [info] : [[0mDELETE /v1/movies/14 [32m204[0m 0.111 ms - -[0m
+][]
+[2025-03-19T11:23:16.672Z] [info] : [[0mDELETE /v1/movies/13 [32m204[0m 0.162 ms - -[0m
+][]
+[2025-03-19T11:23:16.675Z] [info] : [[0mDELETE /v1/movies/12 [32m204[0m 0.140 ms - -[0m
+][]
+[2025-03-19T11:23:16.732Z] [info] : [[0mPOST /v1/movies [32m201[0m 1.572 ms - 117[0m
+][]
+[2025-03-19T11:23:16.734Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.255 ms - 116[0m
+][]
+[2025-03-19T11:23:16.736Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.345 ms - 119[0m
+][]
+[2025-03-19T11:23:16.742Z] [info] : [[0mPOST /v1/movies/16/reviews [32m201[0m 0.307 ms - 157[0m
+][]
+[2025-03-19T11:23:16.743Z] [info] : [[0mPOST /v1/movies/18/reviews [32m201[0m 0.419 ms - 155[0m
+][]
+[2025-03-19T11:23:16.745Z] [info] : [[0mPOST /v1/movies/16/reviews [32m201[0m 0.202 ms - 200[0m
+][]
+[2025-03-19T11:23:16.745Z] [info] : [[0mPOST /v1/movies/18/reviews [32m201[0m 0.320 ms - 196[0m
+][]
+[2025-03-19T11:23:16.746Z] [info] : [[0mPOST /v1/movies/17/reviews [32m201[0m 0.174 ms - 157[0m
+][]
+[2025-03-19T11:23:16.747Z] [info] : [[0mPOST /v1/movies/17/reviews [32m201[0m 0.319 ms - 199[0m
+][]
+[2025-03-19T11:23:16.752Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{"sort":"-rating"}}]
+[2025-03-19T11:23:16.752Z] [info] : [[0mGET /v1/movies?sort=-rating [32m200[0m 0.267 ms - 599[0m
+][]
+[2025-03-19T11:23:16.755Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{"sort":"rating"}}]
+[2025-03-19T11:23:16.756Z] [info] : [[0mGET /v1/movies?sort=rating [32m200[0m 0.260 ms - 599[0m
+][]
+[2025-03-19T11:23:16.757Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:16.758Z] [info] : [[0mGET /v1/movies [32m200[0m 0.328 ms - 599[0m
+][]
+[2025-03-19T11:23:16.760Z] [info] : [[0mDELETE /v1/movies/18 [32m204[0m 0.143 ms - -[0m
+][]
+[2025-03-19T11:23:16.762Z] [info] : [[0mDELETE /v1/movies/17 [32m204[0m 0.137 ms - -[0m
+][]
+[2025-03-19T11:23:16.764Z] [info] : [[0mDELETE /v1/movies/16 [32m204[0m 0.100 ms - -[0m
+][]
+[2025-03-19T11:23:16.820Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.596 ms - 126[0m
+][]
+[2025-03-19T11:23:16.821Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.517 ms - 126[0m
+][]
+[2025-03-19T11:23:16.822Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.535 ms - 126[0m
+][]
+[2025-03-19T11:23:16.823Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.304 ms - 126[0m
+][]
+[2025-03-19T11:23:16.824Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.178 ms - 126[0m
+][]
+[2025-03-19T11:23:16.824Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.210 ms - 126[0m
+][]
+[2025-03-19T11:23:16.825Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.312 ms - 126[0m
+][]
+[2025-03-19T11:23:16.826Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.173 ms - 126[0m
+][]
+[2025-03-19T11:23:16.827Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.259 ms - 128[0m
+][]
+[2025-03-19T11:23:16.828Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.229 ms - 126[0m
+][]
+[2025-03-19T11:23:16.831Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{"page":"1","limit":"3"}}]
+[2025-03-19T11:23:16.832Z] [info] : [[0mGET /v1/movies?page=1&limit=3 [32m200[0m 0.223 ms - 384[0m
+][]
+[2025-03-19T11:23:16.835Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{"page":"2","limit":"3"}}]
+[2025-03-19T11:23:16.835Z] [info] : [[0mGET /v1/movies?page=2&limit=3 [32m200[0m 0.315 ms - 382[0m
+][]
+[2025-03-19T11:23:16.838Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{"page":"4","limit":"3"}}]
+[2025-03-19T11:23:16.838Z] [info] : [[0mGET /v1/movies?page=4&limit=3 [36m304[0m 0.205 ms - -[0m
+][]
+[2025-03-19T11:23:16.840Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:16.840Z] [info] : [[0mGET /v1/movies [32m200[0m 0.391 ms - 1273[0m
+][]
+[2025-03-19T11:23:16.842Z] [info] : [[0mDELETE /v1/movies/28 [32m204[0m 0.123 ms - -[0m
+][]
+[2025-03-19T11:23:16.845Z] [info] : [[0mDELETE /v1/movies/27 [32m204[0m 0.139 ms - -[0m
+][]
+[2025-03-19T11:23:16.847Z] [info] : [[0mDELETE /v1/movies/26 [32m204[0m 0.127 ms - -[0m
+][]
+[2025-03-19T11:23:16.849Z] [info] : [[0mDELETE /v1/movies/25 [32m204[0m 0.105 ms - -[0m
+][]
+[2025-03-19T11:23:16.852Z] [info] : [[0mDELETE /v1/movies/24 [32m204[0m 0.204 ms - -[0m
+][]
+[2025-03-19T11:23:16.853Z] [info] : [[0mDELETE /v1/movies/23 [32m204[0m 0.108 ms - -[0m
+][]
+[2025-03-19T11:23:16.855Z] [info] : [[0mDELETE /v1/movies/22 [32m204[0m 0.127 ms - -[0m
+][]
+[2025-03-19T11:23:16.859Z] [info] : [[0mDELETE /v1/movies/21 [32m204[0m 0.141 ms - -[0m
+][]
+[2025-03-19T11:23:16.861Z] [info] : [[0mDELETE /v1/movies/20 [32m204[0m 0.084 ms - -[0m
+][]
+[2025-03-19T11:23:16.863Z] [info] : [[0mDELETE /v1/movies/19 [32m204[0m 0.192 ms - -[0m
+][]
+[2025-03-19T11:23:16.919Z] [info] : [[0mPOST /v1/movies [32m201[0m 1.018 ms - 111[0m
+][]
+[2025-03-19T11:23:16.922Z] [info] : [[0mGET /v1/movies/29 [32m200[0m 0.256 ms - 111[0m
+][]
+[2025-03-19T11:23:16.923Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:16.924Z] [info] : [[0mGET /v1/movies [32m200[0m 0.465 ms - 113[0m
+][]
+[2025-03-19T11:23:16.927Z] [info] : [[0mDELETE /v1/movies/29 [32m204[0m 0.257 ms - -[0m
+][]
+[2025-03-19T11:23:16.979Z] [info] : [[0mGET /v1/movies/99999 [33m404[0m 0.160 ms - 30[0m
+][]
+[2025-03-19T11:23:16.982Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:16.983Z] [info] : [[0mGET /v1/movies [32m200[0m 0.276 ms - 2[0m
+][]
+[2025-03-19T11:23:17.037Z] [info] : [[0mPOST /v1/movies [32m201[0m 1.063 ms - 111[0m
+][]
+[2025-03-19T11:23:17.041Z] [info] : [[0mPUT /v1/movies/30 [32m200[0m 0.405 ms - 114[0m
+][]
+[2025-03-19T11:23:17.043Z] [info] : [[0mPUT /v1/movies/30 [32m200[0m 0.251 ms - 132[0m
+][]
+[2025-03-19T11:23:17.045Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:17.045Z] [info] : [[0mGET /v1/movies [32m200[0m 0.253 ms - 134[0m
+][]
+[2025-03-19T11:23:17.048Z] [info] : [[0mDELETE /v1/movies/30 [32m204[0m 0.136 ms - -[0m
+][]
+[2025-03-19T11:23:17.103Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.962 ms - 111[0m
+][]
+[2025-03-19T11:23:17.106Z] [info] : [[0mPUT /v1/movies/31 [33m400[0m 0.486 ms - 74[0m
+][]
+[2025-03-19T11:23:17.109Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:17.113Z] [info] : [[0mGET /v1/movies [32m200[0m 0.926 ms - 113[0m
+][]
+[2025-03-19T11:23:17.114Z] [info] : [[0mDELETE /v1/movies/31 [32m204[0m 0.149 ms - -[0m
+][]
+[2025-03-19T11:23:17.171Z] [info] : [[0mPUT /v1/movies/99999 [33m404[0m 0.555 ms - 23[0m
+][]
+[2025-03-19T11:23:17.173Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:17.175Z] [info] : [[0mGET /v1/movies [32m200[0m 1.156 ms - 2[0m
+][]
+[2025-03-19T11:23:17.230Z] [info] : [[0mPOST /v1/movies [32m201[0m 0.876 ms - 111[0m
+][]
+[2025-03-19T11:23:17.232Z] [info] : [[0mPOST /v1/movies/32/reviews [32m201[0m 0.271 ms - 154[0m
+][]
+[2025-03-19T11:23:17.235Z] [info] : [[0mPOST /v1/movies/32/reviews [32m201[0m 0.289 ms - 199[0m
+][]
+[2025-03-19T11:23:17.238Z] [info] : [[0mGET /v1/movies/32/reviews [32m200[0m 0.457 ms - 90[0m
+][]
+[2025-03-19T11:23:17.239Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:17.240Z] [info] : [[0mGET /v1/movies [32m200[0m 0.215 ms - 201[0m
+][]
+[2025-03-19T11:23:17.242Z] [info] : [[0mDELETE /v1/movies/32 [32m204[0m 0.131 ms - -[0m
+][]
+[2025-03-19T11:23:17.301Z] [info] : [[0mGET /v1/movies/99999/reviews [33m404[0m 0.176 ms - 30[0m
+][]
+[2025-03-19T11:23:17.303Z] [info] [movie.controller.js]: [Getting all movies][
+{"query":{}}]
+[2025-03-19T11:23:17.303Z] [info] : [[0mGET /v1/movies [32m200[0m 0.258 ms - 2[0m
+][]
