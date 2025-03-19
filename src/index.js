@@ -1,20 +1,16 @@
+const cors = require('cors');
 const express = require('express');
-const movieRouter = require('./routes/movie.router');
+const v1Router = require('./routes');
 const corsMiddleware = require('./middleware/cors.middleware');
+
+
 const app = express();
+
+app.use(cors());
 app.use(express.json())
-app.use(corsMiddleware)
 
 
-
-app.use('/v1/movies', movieRouter);
-
-
-// app.get('/', (req, res, next) => {
-//     console.log(req);
-//     res.json('hello');
-// })
-
+app.use('/v1', v1Router)
 
 
 app.listen(3000, () => {

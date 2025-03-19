@@ -1,12 +1,13 @@
 const {Router} = require('express');
+
 const {
-    getAllMovies, 
-    addMovie, 
-    getMovieById, 
-    deleteMovieById, 
+    addMovie,
+    getAllMovies,
+    getMovieById,
+    deleteMovieById,
     updateMovieById,
     addReviewByMovieId,
-    getReviewsByMovieId
+    getReviewByMovieId,
 } = require('../controllers/movie.controller')
 const movieRouter = Router();
 
@@ -25,6 +26,6 @@ movieRouter.put('/:id', updateMovieById)
 
 movieRouter.post('/:id/reviews', addReviewByMovieId)
 
-movieRouter.get('/:id/reviews', getReviewsByMovieId)
+movieRouter.get('/:id/reviews', getReviewByMovieId)
 
 module.exports = movieRouter;

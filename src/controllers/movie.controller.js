@@ -131,7 +131,7 @@ const updateMovieById = (req, res, next) => {
 }
 
 
-const getReviewsByMovieId = (req, res, next) => {
+const addReviewByMovieId = (req, res, next) => {
     const movie = movies.find(movie => movie.id === +req.params.id);
     if (!movie) {
         return res.status(404).json({
@@ -155,7 +155,8 @@ const getReviewsByMovieId = (req, res, next) => {
 
 }
 
-const addReviewByMovieId = (req, res, next) => {
+
+const getReviewByMovieId = (req, res, next) => {
     const movie = movies.find(movie => movie.id === +req.params.id);
     if (!movie) {
         return res.status(404).json({
@@ -178,6 +179,5 @@ module.exports = {
     getMovieById,
     deleteMovieById,
     updateMovieById,
-    getReviewsByMovieId,
-    addReviewByMovieId
+    addReviewByMovieId, getReviewByMovieId,
 }
